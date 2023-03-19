@@ -1,4 +1,9 @@
-
+/*!
+ * Bootstrap v4.0.0 (https://getbootstrap.com)
+ * Copyright 2011-2018 The Bootstrap Authors
+ * Copyright 2011-2018 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -6250,7 +6255,7 @@ header {
 
 .services {
   padding: 100px 0;
-  background: #dddfd3; }
+  background: #e9ecef; }
   .services .service-cont img {
     border: 1px solid #dee2e6;
     height: 250px;
